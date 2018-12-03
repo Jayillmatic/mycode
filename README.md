@@ -1,6 +1,6 @@
 # mycode (Python Basic)
 
-Learning python basic and how to maintain my code. 
+Learning versioning control with git. 
 
 ## Getting Started
 
